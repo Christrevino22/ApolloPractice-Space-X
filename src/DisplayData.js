@@ -39,6 +39,8 @@ const DisplayData = () => {
             <h1>Name: {rockets.name}</h1>
             <h1>Description: {rockets.description}</h1>
             <h1>First Flight: {rockets.first_flight}</h1>
+
+            
             
 
     </div>
